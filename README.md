@@ -39,13 +39,3 @@ This project demonstrates the use of **Unit Testing** and **Code Coverage** in P
    .........
    Ran 9 tests in 3.905s
    OK
-   Name                              Stmts   Miss  Cover   Missing
-   logic_code/extra_runs_2016.py        41      3    93%   52-54
-   logic_code/ipl_analysis.py           34      1    97%   45
-   logic_code/stacked_bar_chart.py      42      2    95%   15, 53
-   logic_code/top_bowlers_2015.py       51      4    92%   30, 69-71
-   tests/test_extra_runs.py             26      1    96%   42
-   tests/test_stacked_chart.py          16      3    81%   16-17, 20
-   tests/test_top_bowlers.py            27      1    96%   37
-   tests/test_total_matches.py          18      2    89%   25-26
-   TOTAL                               255     17    93%
